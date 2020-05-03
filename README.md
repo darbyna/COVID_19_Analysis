@@ -1,4 +1,4 @@
-                           # Analysis of COVID-19 Data 
+# Analysis of COVID-19 Data 
 ## Utilizing Machine Learning with Python Coding and Statistical Analysis with R
 ### By Niko Darby 
 
