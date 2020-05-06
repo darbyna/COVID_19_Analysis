@@ -16,7 +16,7 @@ This statistical experiment is conducted with the hopes of discovering valuable 
 
 <p> Python Language </p>
 
-### Logistic Regression:
+### Logistic Regression
 
 ### Linear Regression
 
@@ -51,4 +51,4 @@ https://stackabuse.com/linear-regression-in-python-with-scikit-learn/
   
   https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset#covid_19_data.csv
   
-  #Thank you for visiting this project. Stay safe and healthy.
+# Thank you for visiting this project. Stay safe and healthy.
