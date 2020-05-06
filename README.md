@@ -15,12 +15,14 @@ This statistical experiment is conducted with the hopes of discovering valuable 
 ## Figures
 
 <p> Python Language </p>
+
 ### Logistic Regression:
 
 ### Linear Regression
 
 
 <p> R Language </p>
+
 ### Scatter Plot
 
 ### Line Plot 
