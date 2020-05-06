@@ -14,7 +14,7 @@ This statistical experiment is conducted with the hopes of discovering valuable 
 
 ## Figures
 
-<p> Python Language </p>
+# Python Language 
 
 ### Distribution of COVID-19 Logistic Regression data
 
@@ -46,7 +46,7 @@ This statistical experiment is conducted with the hopes of discovering valuable 
 
 
 
-<p> R Language </p>
+# R Language 
 
 ### Scatter Plot
 ![](https://github.com/darbyna/COVID_19_Analysis/blob/master/Figures/image_6.png?raw=true)
