@@ -15,24 +15,39 @@ This statistical experiment is conducted with the hopes of discovering valuable 
 ## Figures
 
 <p> Python Language </p>
-
+### Distribution of COVID-19 Logistic Regression data
+![](https://github.com/darbyna/COVID_19_Analysis/blob/master/Figures/image_0.png?raw=true)
 ### Logistic Regression
-
+<p> SVC(AUC) chart </p>
+![](https://github.com/darbyna/COVID_19_Analysis/blob/master/Figures/image_1.png?raw=true)
+### Distribution of COVID-19 Linear Regression data
+![](https://github.com/darbyna/COVID_19_Analysis/blob/master/Figures/image_2.png?raw=true)
 ### Linear Regression
+<p> Actual vs Predicted Data </p> 
+![](https://github.com/darbyna/COVID_19_Analysis/blob/master/Figures/image_3.png?raw=true)
+<p> Training Data </p>
+![](https://github.com/darbyna/COVID_19_Analysis/blob/master/Figures/image_4.png?raw=true)
+<p> Test Data </p>
+![](https://github.com/darbyna/COVID_19_Analysis/blob/master/Figures/image_5.png?raw=true)
+
 
 
 <p> R Language </p>
 
 ### Scatter Plot
-
+![](https://github.com/darbyna/COVID_19_Analysis/blob/master/Figures/image_6.png?raw=true)
 ### Line Plot 
-
+![](https://github.com/darbyna/COVID_19_Analysis/blob/master/Figures/image_7.png?raw=true)
 ### Pie Chart 
-
+![](https://github.com/darbyna/COVID_19_Analysis/blob/master/Figures/image_8.png?raw=true)
+![](https://github.com/darbyna/COVID_19_Analysis/blob/master/Figures/image_9.png?raw=true)
+![](https://github.com/darbyna/COVID_19_Analysis/blob/master/Figures/image_10.png?raw=true)
 ### Density Plot
+![](https://github.com/darbyna/COVID_19_Analysis/blob/master/Figures/image_11.png?raw=true)
+![](https://github.com/darbyna/COVID_19_Analysis/blob/master/Figures/image_12.png?raw=true)
+![](https://github.com/darbyna/COVID_19_Analysis/blob/master/Figures/image_13.png?raw=true)
 
-
-
+<p> If there are any questions regarding the statistical figures please feel free to contact me. </p> 
 
 
 
