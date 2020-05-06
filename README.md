@@ -63,8 +63,10 @@ This statistical experiment is conducted with the hopes of discovering valuable 
 
 <p> If there are any questions regarding the statistical figures please feel free to contact me. </p> 
 
+## Presentation
 
-
+Feel liberated to examine the Google Slides presentation of this project. It will break things down in a more simplified fashion:
+https://docs.google.com/presentation/d/1Z0EwaRCgZ5bvdk2GNPFc7hE_e97EEqa9ITiffVPaQnc/edit?usp=sharing
 
 ## References
 
