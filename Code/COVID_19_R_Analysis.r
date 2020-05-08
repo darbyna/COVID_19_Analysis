@@ -36,11 +36,11 @@ Covid_Mean
 #Find the Median of the following: Deaths, Recovered, and Confirmed Cases
 
 #Median of Deaths:
-med_death = median(deaths)
+med_death = median(order(deaths))
 #Median of Recovered:
-med_recovered = median(recovered)
+med_recovered = median(order(recovered))
 #Median of Confirmed Cases:
-med_confirmed = median(confirmed)
+med_confirmed = median(order(confirmed))
 
 #Combine all of the medians into a Data Frame: 
 Covid_Median = data.frame(med_death, med_confirmed, med_recovered)
