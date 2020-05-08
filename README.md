@@ -66,7 +66,14 @@ This statistical experiment is conducted with the hopes of discovering valuable 
 ## Presentation
 
 Feel liberated to examine the Google Slides presentation of this project. It will break things down in a more simplified fashion:
+
+### Machine Learning with Python Presentation
+
 https://docs.google.com/presentation/d/1Z0EwaRCgZ5bvdk2GNPFc7hE_e97EEqa9ITiffVPaQnc/edit?usp=sharing
+
+### R Statistical Analysis Presentation
+
+https://docs.google.com/presentation/d/119YpyvhCpE3SCTo72PDPdGPgfElUdEEBau-ek7DXpmw/edit?usp=sharing
 
 ## References
 
